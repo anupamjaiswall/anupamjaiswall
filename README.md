@@ -1,4 +1,7 @@
-![profiel_banner](https://media-exp1.licdn.com/dms/image/C5616AQHy1qxUK3QG1g/profile-displaybackgroundimage-shrink_200_800/0/1612724701747?e=2147483647&v=beta&t=bg_q_NdPHIPE_UzqX5gAQBkw7HWHGakJ8Fu9jRX5sHs)
+<center>
+    <img src="https://media-exp1.licdn.com/dms/image/C5616AQHy1qxUK3QG1g/profile-displaybackgroundimage-shrink_200_800/0/1612724701747?e=2147483647&v=beta&t=bg_q_NdPHIPE_UzqX5gAQBkw7HWHGakJ8Fu9jRX5sHs" width="1000px"/>
+</center>
+
 <h1>
     Hi there,
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"

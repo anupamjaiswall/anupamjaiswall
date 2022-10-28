@@ -32,8 +32,8 @@
 ---
 <p>
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=anupamjaiswall&show_icons=true" alt="GitHub stats" width="450px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamjaiswall" alt="GitHub streak stats" width="450px">
+    <img src="https://github-readme-stats.vercel.app/api?username=anupamjaiswall&show_icons=true" alt="GitHub stats" width="400px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamjaiswall" alt="GitHub streak stats" width="400px">
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anupamjaiswall)

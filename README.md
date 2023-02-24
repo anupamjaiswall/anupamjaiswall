@@ -1,3 +1,4 @@
+
 <center>
     <img src="https://media-exp1.licdn.com/dms/image/C5616AQHy1qxUK3QG1g/profile-displaybackgroundimage-shrink_200_800/0/1612724701747?e=2147483647&v=beta&t=bg_q_NdPHIPE_UzqX5gAQBkw7HWHGakJ8Fu9jRX5sHs" width="1000px"/>
 </center>
@@ -18,12 +19,21 @@
 
 ---
 ## Some of my cool projects! 😎
+##### [1. Unbloater](https://github.com/anupamjaiswall/Unbloater/) 
+
 <a href="https://github.com/anupamjaiswall/Unbloater" ><img alt="Unbloater" width="420px" src="https://github.com/anupamjaiswall/Unbloater/raw/main/media/3-and-4.gif?raw=true" /> </a>
+<br/>
+
+##### [2. Hack Using HID](https://www.linkedin.com/posts/anupamjaiswall_hack-android-apk-activity-6831520092459802624-jw81?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BVvgpG6DkQXudkodLZIf%2BPA%3D%3D)  
 <a href="https://www.linkedin.com/posts/anupamjaiswall_hack-android-apk-activity-6831520092459802624-jw81?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BVvgpG6DkQXudkodLZIf%2BPA%3D%3D" ><img alt="Hack Using HID" width="420px" src="https://github.com/anupamjaiswall/anupamjaiswall/blob/main/media/hid_c.gif?raw=true" /> </a>
+<br/>
 
+##### [3. Writing Reader](https://bit.ly/2SZyp7C) 
 <a href="https://bit.ly/2SZyp7C"> <img alt="Writing Reader" width="420px" src="https://github.com/anupamjaiswall/anupamjaiswall/blob/main/media/wr.gif?raw=true" /> </a>
-<a href="https://drive.google.com/file/d/1U3ITVMxwE_Q0SaXcg2BgrXOdRP9C6cYG/view"><img alt="The Hidden Message" width="420px" src="https://github.com/anupamjaiswall/anupamjaiswall/blob/main/media/thm.gif?raw=true" /></a>
+<br/>
 
+##### [4. The Hidden Message](https://drive.google.com/file/d/1U3ITVMxwE_Q0SaXcg2BgrXOdRP9C6cYG/view)  
+<a href="https://drive.google.com/file/d/1U3ITVMxwE_Q0SaXcg2BgrXOdRP9C6cYG/view"><img alt="The Hidden Message" width="420px" src="https://github.com/anupamjaiswall/anupamjaiswall/blob/main/media/thm.gif?raw=true" /></a>
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anupamjaiswall)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anupamjaiswall/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anupamjaiswall/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anupamjaiswall)
